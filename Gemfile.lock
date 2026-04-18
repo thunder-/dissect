@@ -36,7 +36,7 @@ GEM
       timeout
     net-smtp (0.5.1)
       net-protocol
-    nokogiri (1.18.9)
+    nokogiri (1.19.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     racc (1.8.1)
@@ -81,7 +81,7 @@ GEM
     sinatra-respond_to (0.4.0)
       sinatra (>= 0.9.4)
     thor (1.4.0)
-    tilt (2.6.1)
+    tilt (2.7.0)
     timeout (0.4.3)
 
 PLATFORMS
@@ -97,4 +97,4 @@ DEPENDENCIES
   simplecov
 
 BUNDLED WITH
-   2.6.9
+  4.0.3
